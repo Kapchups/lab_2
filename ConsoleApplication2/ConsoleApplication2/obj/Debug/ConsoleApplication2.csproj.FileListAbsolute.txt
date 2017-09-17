@@ -1,0 +1,6 @@
+D:\Универ\2 курс\ООП (Объектно-ориентированное программирование)\Лабораторная работа №2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+D:\Универ\2 курс\ООП (Объектно-ориентированное программирование)\Лабораторная работа №2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+D:\Универ\2 курс\ООП (Объектно-ориентированное программирование)\Лабораторная работа №2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+D:\Универ\2 курс\ООП (Объектно-ориентированное программирование)\Лабораторная работа №2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+D:\Универ\2 курс\ООП (Объектно-ориентированное программирование)\Лабораторная работа №2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+D:\Универ\2 курс\ООП (Объектно-ориентированное программирование)\Лабораторная работа №2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
